@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-export default class AddHero extends React.Component {
+	export default class AddHero extends React.Component {
 	render(){
 		return(
 			<>

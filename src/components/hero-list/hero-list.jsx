@@ -1,5 +1,5 @@
 import React, {Component} from 'react'; 
-import HeroCard from '../heroCard/heroCard.jsx'
+import HeroCard from '../heroCard/heroCard.jsx';
 
 export default class HeroList extends Component {
 	render(){
